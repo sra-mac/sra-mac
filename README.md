@@ -1,7 +1,7 @@
 <img width=100% 
 src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Camila_Machado&fontSize=30%tColor=fff&animation=twinkling&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+CAMILA+L.+MACHADO;I'm+24+years+old;I+from+Brasil,PA;I+am+graduated+in+Systems+Analysis+and+Development+at+UEPA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1100&lines=HELLO,+MY+NAME+IS+CAMILA+L.+MACHADO;I'm+24+years+old;I'm+from+Brazil,PA;I'm+graduated+in+Systems+Analysis+and+Development+at+UEPA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
